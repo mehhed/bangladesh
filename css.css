@@ -1,6 +1,7 @@
 h1{ text-align: center; text-shadow: 20px; color:rgba(237, 230, 230, 0.912); font-style: italic;}
-div{ border: 2px solid; width: 40%;  float: left; margin:20px;  text-align: justify;}
+div{ border: 2px solid; width: 40%;  float: left; margin:20px;  text-align: justify; height: 600px; overflow: scroll;}
 .ff{margin-left: 10%;}
 a{ text-decoration: none;}
 body{border: 3px solid burlywood;}
 header{ background-image: url(h.jpg);}
+img{  width: 100%;  height: 50%;}
